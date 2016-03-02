@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Иван Филиппов](https://up.htmlacademy.ru/adaptive/6/user/66427).
-* Наставник: `Леонид Кузнецов`
+* Наставник: [Леонид Кузнецов](https://htmlacademy.ru/profile/id53974).
 
 ---
 
